@@ -2,13 +2,9 @@
 
 # Hi there 👋
 
----
-
 ## I'm CS student from Poland
 
 </div>
-
----
 
 ## ✨ About me
 
